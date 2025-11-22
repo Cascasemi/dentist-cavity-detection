@@ -219,7 +219,7 @@ For questions, issues, or feature requests:
 
 - 🐛 [Report Issues](https://github.com/Cascasemi/dentist-cavity-detection/issues)
 - 💬 [Discussions](https://github.com/Cascasemi/dentist-cavity-detection/discussions)
-- 📧 Contact: [Your Email]
+- 📧 Contact: cascatechssolutions@gmail.com
 
 ---
 
